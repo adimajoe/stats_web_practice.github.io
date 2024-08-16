@@ -1,2 +1,1 @@
-# stats_web_practice.github.io
-Practice Website
+# This is a readme file
