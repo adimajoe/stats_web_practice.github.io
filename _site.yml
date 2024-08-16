@@ -6,6 +6,6 @@ output:
 navbar:
   left:
     - text: "About"
-      href: index.Rmd
+      href: about.Rmd
     - text: "Getting Started"
 output_dir: "."
