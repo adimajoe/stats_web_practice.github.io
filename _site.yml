@@ -1,8 +1,5 @@
 name: "Create a simple Rmarkdown website"
-output:
-  html_document:
-    theme: cosmo
-    #highlight: textmate
+theme: cosmo
 navbar:
   left:
     - text: "About"
